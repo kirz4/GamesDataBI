@@ -23,7 +23,7 @@ def create_table_from_csv(csv_file, table_name, db_file):
         con.execute(f"""
             CREATE TABLE IF NOT EXISTS {table_name} AS
             SELECT *
-            FROM read_csv_auto('{csv_file}');
+            FROM read_csv_auto('{csv_file}', all_varchar=TRUE);
         """)
 
         # Verificando se os dados foram inseridos
@@ -46,7 +46,6 @@ if __name__ == "__main__":
     # Configurações do segundo CSV
     csv_file2 = os.path.join(base_dir, "Steam_2024_bestRevenue_1500.csv")
     table_name2 = "steam_games"
-
 
     # Criando as tabelas
     print(create_table_from_csv(csv_file1, table_name1, db_file))
