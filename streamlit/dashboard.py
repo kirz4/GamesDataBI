@@ -48,6 +48,19 @@ def load_rawg_data():
         st.error("Erro ao buscar dados da API RAWG.")
         return pd.DataFrame()
 
+
+# Função para adicionar uma caixa ao redor do gráfico
+def plot_in_box(chart, title="Gráfico", subtitle=""):
+    st.markdown(
+        f"""
+        <div style="border: 2px solid #0078D4; border-radius: 10px; padding: 20px; margin-top: 10px;">
+            <h3 style="color: #0078D4; font-size: 18px;">{title}</h3>
+            <h4 style="color: #888; font-size: 14px;">{subtitle}</h4>
+            {chart}
+        </div>
+        """, unsafe_allow_html=True
+    )
+    
 # Carregar os dados
 steam_data = load_duckdb_data("steam_games")
 games_data = load_duckdb_data("games")
@@ -93,6 +106,8 @@ if not steam_data.empty:
         )
         st.plotly_chart(fig)
 
+        st.markdown("<hr style='border: 1px solid #D3D3D3;' />", unsafe_allow_html=True)
+
     with col2:
         # Gráfico de vendas globais e regionais
         if not games_data.empty:
@@ -123,6 +138,8 @@ if not steam_data.empty:
             )
             st.plotly_chart(fig2)
 
+            st.markdown("<hr style='border: 1px solid #D3D3D3;' />", unsafe_allow_html=True)
+
 # Gráfico de pizza para visualizar o status dos jogos na API RAWG
 with col3:
     if not rawg_data.empty:
@@ -146,12 +163,23 @@ with col3:
             title=f"Status de {game_filter}"
         )
         st.plotly_chart(fig_pizza)
-
 # Gráfico aleatório para preencher o quarto gráfico (col4)
 with col4:
-    fig_random = px.histogram(
-        games_data, 
-        x="Genre", 
-        title="Distribuição dos Jogos por Gênero"
-    )
-    st.plotly_chart(fig_random)
+    if not rawg_data.empty:
+        # Verifica se a coluna 'genres' é uma lista de dicionários, e se sim, extrai o nome de cada gênero
+        rawg_data['genre_name'] = rawg_data['genres'].apply(lambda genres: [genre['name'] for genre in genres] if isinstance(genres, list) else [])
+
+        # Expande a lista de gêneros para múltiplas linhas, mantendo os outros dados correspondentes
+        expanded_genres = rawg_data.explode('genre_name').dropna(subset=['genre_name'])
+
+        # Agrupar por gênero e calcular a média de avaliação
+        genre_avg_rating = expanded_genres.groupby("genre_name")["average_rating"].mean().reset_index()
+
+        # Criar o gráfico de barras para a média de avaliação por gênero
+        fig = px.bar(genre_avg_rating, 
+                     x="genre_name", 
+                     y="average_rating", 
+                     title="Média de Avaliação por Gênero", 
+                     labels={"average_rating": "Avaliação Média", "genre_name": "Gênero"})
+        
+        st.plotly_chart(fig)

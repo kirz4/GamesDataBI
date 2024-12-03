@@ -40,11 +40,11 @@
             ],
             "ratings_count": 6939,
             "reviews_text_count": 63,
-            "added": 21400,
+            "added": 21401,
             "added_by_status": {
                 "yet": 535,
                 "owned": 12336,
-                "beaten": 6064,
+                "beaten": 6065,
                 "toplay": 610,
                 "dropped": 1124,
                 "playing": 731
@@ -461,13 +461,13 @@
                     "id": 5,
                     "title": "exceptional",
                     "count": 5239,
-                    "percent": 76.85
+                    "percent": 76.84
                 },
                 {
                     "id": 4,
                     "title": "recommended",
-                    "count": 1113,
-                    "percent": 16.33
+                    "count": 1114,
+                    "percent": 16.34
                 },
                 {
                     "id": 3,
@@ -482,12 +482,12 @@
                     "percent": 2.6
                 }
             ],
-            "ratings_count": 6707,
+            "ratings_count": 6708,
             "reviews_text_count": 76,
-            "added": 20923,
+            "added": 20924,
             "added_by_status": {
                 "yet": 1135,
-                "owned": 12222,
+                "owned": 12223,
                 "beaten": 4928,
                 "toplay": 797,
                 "dropped": 960,
@@ -496,9 +496,9 @@
             "metacritic": 92,
             "playtime": 44,
             "suggestions_count": 677,
-            "updated": "2024-12-01T15:17:51",
+            "updated": "2024-12-03T21:54:03",
             "user_game": null,
-            "reviews_count": 6817,
+            "reviews_count": 6818,
             "saturated_color": "0f0f0f",
             "dominant_color": "0f0f0f",
             "platforms": [
@@ -930,8 +930,8 @@
                 {
                     "id": 5,
                     "title": "exceptional",
-                    "count": 4046,
-                    "percent": 69.65
+                    "count": 4047,
+                    "percent": 69.66
                 },
                 {
                     "id": 4,
@@ -952,12 +952,12 @@
                     "percent": 2.31
                 }
             ],
-            "ratings_count": 5757,
+            "ratings_count": 5758,
             "reviews_text_count": 35,
-            "added": 19827,
+            "added": 19828,
             "added_by_status": {
                 "yet": 639,
-                "owned": 12467,
+                "owned": 12468,
                 "beaten": 5575,
                 "toplay": 385,
                 "dropped": 605,
@@ -966,9 +966,9 @@
             "metacritic": 95,
             "playtime": 11,
             "suggestions_count": 553,
-            "updated": "2024-12-03T05:55:53",
+            "updated": "2024-12-03T21:54:05",
             "user_game": null,
-            "reviews_count": 5809,
+            "reviews_count": 5810,
             "saturated_color": "0f0f0f",
             "dominant_color": "0f0f0f",
             "platforms": [
@@ -3232,11 +3232,11 @@
             ],
             "ratings_count": 4678,
             "reviews_text_count": 34,
-            "added": 16101,
+            "added": 16102,
             "added_by_status": {
                 "yet": 508,
                 "owned": 9648,
-                "beaten": 3803,
+                "beaten": 3804,
                 "toplay": 420,
                 "dropped": 1329,
                 "playing": 393
@@ -7271,19 +7271,19 @@
                     "id": 5,
                     "title": "exceptional",
                     "count": 3480,
-                    "percent": 70.77
+                    "percent": 70.76
                 },
                 {
                     "id": 4,
                     "title": "recommended",
                     "count": 1029,
-                    "percent": 20.93
+                    "percent": 20.92
                 },
                 {
                     "id": 3,
                     "title": "meh",
-                    "count": 243,
-                    "percent": 4.94
+                    "count": 244,
+                    "percent": 4.96
                 },
                 {
                     "id": 1,
@@ -7292,12 +7292,12 @@
                     "percent": 3.36
                 }
             ],
-            "ratings_count": 4816,
+            "ratings_count": 4817,
             "reviews_text_count": 72,
-            "added": 13733,
+            "added": 13734,
             "added_by_status": {
                 "yet": 691,
-                "owned": 7026,
+                "owned": 7027,
                 "beaten": 4084,
                 "toplay": 1166,
                 "dropped": 353,
@@ -7306,9 +7306,9 @@
             "metacritic": 94,
             "playtime": 14,
             "suggestions_count": 596,
-            "updated": "2024-11-30T16:02:20",
+            "updated": "2024-12-03T21:54:05",
             "user_game": null,
-            "reviews_count": 4917,
+            "reviews_count": 4918,
             "saturated_color": "0f0f0f",
             "dominant_color": "0f0f0f",
             "platforms": [

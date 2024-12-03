@@ -47,4 +47,9 @@ def process_rawg_data(rawg_data):
     # Retirar a coluna original 'added_by_status' para limpeza
     rawg_data = rawg_data.drop(columns=['added_by_status'])
 
+    # **Novo processamento da coluna 'action'**
+    if 'action' in rawg_data.columns:
+        # Extraindo apenas o campo 'name' do dicionário presente na coluna 'action'
+        rawg_data['action_name'] = rawg_data['action'].apply(lambda x: x.get('name') if isinstance(x, dict) else None)
+
     return rawg_data
