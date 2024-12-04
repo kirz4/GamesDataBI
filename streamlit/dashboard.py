@@ -48,18 +48,6 @@ def load_rawg_data():
         st.error("Erro ao buscar dados da API RAWG.")
         return pd.DataFrame()
 
-
-# Função para adicionar uma caixa ao redor do gráfico
-def plot_in_box(chart, title="Gráfico", subtitle=""):
-    st.markdown(
-        f"""
-        <div style="border: 2px solid #0078D4; border-radius: 10px; padding: 20px; margin-top: 10px;">
-            <h3 style="color: #0078D4; font-size: 18px;">{title}</h3>
-            <h4 style="color: #888; font-size: 14px;">{subtitle}</h4>
-            {chart}
-        </div>
-        """, unsafe_allow_html=True
-    )
     
 # Carregar os dados
 steam_data = load_duckdb_data("steam_games")
@@ -73,6 +61,62 @@ if not rawg_data.empty:
 # Filtros para os gráficos de vendas regionais e gráficos de pizza
 region_filter = st.sidebar.selectbox("Escolha a região para o gráfico de vendas", ["NA_Sales", "EU_Sales", "JP_Sales", "Global_Sales"])
 game_filter = st.sidebar.selectbox("Escolha um jogo para o gráfico de pizza", rawg_data["name"].unique())
+
+# Certificando-se de que o DataFrame não está vazio
+if not steam_data.empty:
+    # 1. Maior Nota de Avaliação - Usando a coluna 'reviewScore' de steam_data
+    highest_rating = steam_data["reviewScore"].max()
+
+    # 2. Percentual de Jogos Com Avaliação Acima de 8 - Usando a coluna 'reviewScore'
+    above_8 = (steam_data["reviewScore"] > 8).sum()
+    total_games = len(steam_data)
+    percent_above_8 = (above_8 / total_games) * 100 if total_games > 0 else 0
+
+    # 3. Total de Vendas Globais (em milhões) - Calculando baseado em 'copiesSold' e 'price'
+    steam_data['calculated_revenue'] = steam_data['copiesSold'] * steam_data['price']
+    total_revenue = steam_data['calculated_revenue'].sum() / 1e6  # Convertendo para milhões
+
+    # 4. Jogo Mais Avaliado - Usando o dataset da API Rawg
+    if 'ratings_count' in rawg_data.columns:
+        most_reviewed_game = rawg_data.loc[rawg_data["ratings_count"].idxmax()]
+        most_reviewed_game_name = most_reviewed_game["name"]
+        most_reviewed_game_reviews = most_reviewed_game["ratings_count"]
+    else:
+        most_reviewed_game_name = "Não encontrado"
+        most_reviewed_game_reviews = 0
+
+    # 5. Jogo com Menor Avaliação - Usando o dataset da API Rawg
+    if 'average_rating' in rawg_data.columns:
+        lowest_rated_game = rawg_data.loc[rawg_data["average_rating"].idxmin()]
+        lowest_rated_game_name = lowest_rated_game["name"]
+        lowest_rated_game_score = lowest_rated_game["average_rating"]
+    else:
+        lowest_rated_game_name = "Não encontrado"
+        lowest_rated_game_score = 0
+
+# Substituindo "Grand Theft Auto V" por "GTA V" para abreviar
+most_reviewed_game_name = most_reviewed_game_name.replace("Grand Theft Auto V", "GTA V")
+
+# Exibir os KPIs em uma linha
+with st.container():
+    col1, col2, col3, col4, col5 = st.columns(5)  # Divide a linha em 5 colunas
+    
+    with col1:
+        st.metric(label="Maior Nota de Avaliação", value=f"{highest_rating}")
+    
+    with col2:
+        st.metric(label="Porcentagem de Jogos com Avaliação > 8", value=f"{percent_above_8:.2f}%")
+    
+    with col3:
+        st.metric(label="Total de Vendas Globais", value=f"{total_revenue:.1f}M")
+    
+    with col4:
+        st.metric(label="Jogo Mais Avaliado", value=f"{most_reviewed_game_name}", delta=f"{most_reviewed_game_reviews} avaliações")
+    
+    with col5:
+        st.metric(label="Jogo com Menor Avaliação", value=f"{lowest_rated_game_name}", delta=f"{lowest_rated_game_score:.2f}")
+
+
 
 # Dividir a tela em 2 linhas e 2 colunas
 col1, col2 = st.columns(2)  # Primeira linha com duas colunas

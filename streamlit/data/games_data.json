@@ -40,13 +40,13 @@
             ],
             "ratings_count": 6939,
             "reviews_text_count": 63,
-            "added": 21401,
+            "added": 21405,
             "added_by_status": {
                 "yet": 535,
-                "owned": 12336,
+                "owned": 12339,
                 "beaten": 6065,
                 "toplay": 610,
-                "dropped": 1124,
+                "dropped": 1125,
                 "playing": 731
             },
             "metacritic": 92,
@@ -460,7 +460,7 @@
                 {
                     "id": 5,
                     "title": "exceptional",
-                    "count": 5239,
+                    "count": 5240,
                     "percent": 76.84
                 },
                 {
@@ -482,13 +482,13 @@
                     "percent": 2.6
                 }
             ],
-            "ratings_count": 6708,
+            "ratings_count": 6709,
             "reviews_text_count": 76,
-            "added": 20924,
+            "added": 20929,
             "added_by_status": {
                 "yet": 1135,
-                "owned": 12223,
-                "beaten": 4928,
+                "owned": 12227,
+                "beaten": 4929,
                 "toplay": 797,
                 "dropped": 960,
                 "playing": 881
@@ -496,9 +496,9 @@
             "metacritic": 92,
             "playtime": 44,
             "suggestions_count": 677,
-            "updated": "2024-12-03T21:54:03",
+            "updated": "2024-12-03T23:24:23",
             "user_game": null,
-            "reviews_count": 6818,
+            "reviews_count": 6819,
             "saturated_color": "0f0f0f",
             "dominant_color": "0f0f0f",
             "platforms": [
@@ -954,10 +954,10 @@
             ],
             "ratings_count": 5758,
             "reviews_text_count": 35,
-            "added": 19828,
+            "added": 19833,
             "added_by_status": {
                 "yet": 639,
-                "owned": 12468,
+                "owned": 12473,
                 "beaten": 5575,
                 "toplay": 385,
                 "dropped": 605,
@@ -1441,10 +1441,10 @@
             ],
             "ratings_count": 3513,
             "reviews_text_count": 27,
-            "added": 17513,
+            "added": 17518,
             "added_by_status": {
                 "yet": 265,
-                "owned": 13442,
+                "owned": 13447,
                 "beaten": 1065,
                 "toplay": 78,
                 "dropped": 2038,
@@ -1867,10 +1867,10 @@
             ],
             "ratings_count": 3923,
             "reviews_text_count": 14,
-            "added": 17044,
+            "added": 17048,
             "added_by_status": {
                 "yet": 687,
-                "owned": 11142,
+                "owned": 11146,
                 "beaten": 4277,
                 "toplay": 277,
                 "dropped": 547,
@@ -2309,10 +2309,10 @@
             ],
             "ratings_count": 4760,
             "reviews_text_count": 28,
-            "added": 16878,
+            "added": 16880,
             "added_by_status": {
                 "yet": 453,
-                "owned": 10617,
+                "owned": 10619,
                 "beaten": 5059,
                 "toplay": 272,
                 "dropped": 397,
@@ -2777,10 +2777,10 @@
             ],
             "ratings_count": 3287,
             "reviews_text_count": 12,
-            "added": 16772,
+            "added": 16775,
             "added_by_status": {
                 "yet": 384,
-                "owned": 12386,
+                "owned": 12389,
                 "beaten": 2536,
                 "toplay": 114,
                 "dropped": 1202,
@@ -3232,10 +3232,10 @@
             ],
             "ratings_count": 4678,
             "reviews_text_count": 34,
-            "added": 16102,
+            "added": 16103,
             "added_by_status": {
                 "yet": 508,
-                "owned": 9648,
+                "owned": 9649,
                 "beaten": 3804,
                 "toplay": 420,
                 "dropped": 1329,
@@ -3737,10 +3737,10 @@
             ],
             "ratings_count": 5097,
             "reviews_text_count": 78,
-            "added": 15779,
+            "added": 15785,
             "added_by_status": {
-                "yet": 950,
-                "owned": 8334,
+                "yet": 951,
+                "owned": 8339,
                 "beaten": 3254,
                 "toplay": 1613,
                 "dropped": 706,
@@ -4222,12 +4222,12 @@
             ],
             "ratings_count": 4045,
             "reviews_text_count": 25,
-            "added": 15527,
+            "added": 15531,
             "added_by_status": {
                 "yet": 833,
-                "owned": 9320,
+                "owned": 9323,
                 "beaten": 4344,
-                "toplay": 418,
+                "toplay": 419,
                 "dropped": 514,
                 "playing": 98
             },
@@ -4728,10 +4728,10 @@
             ],
             "ratings_count": 3207,
             "reviews_text_count": 12,
-            "added": 15381,
+            "added": 15383,
             "added_by_status": {
                 "yet": 613,
-                "owned": 10705,
+                "owned": 10707,
                 "beaten": 2323,
                 "toplay": 237,
                 "dropped": 1290,
@@ -5245,10 +5245,10 @@
             ],
             "ratings_count": 3645,
             "reviews_text_count": 31,
-            "added": 15366,
+            "added": 15368,
             "added_by_status": {
                 "yet": 781,
-                "owned": 10007,
+                "owned": 10009,
                 "beaten": 3419,
                 "toplay": 359,
                 "dropped": 649,
@@ -5810,10 +5810,10 @@
             ],
             "ratings_count": 3879,
             "reviews_text_count": 17,
-            "added": 15021,
+            "added": 15026,
             "added_by_status": {
                 "yet": 679,
-                "owned": 9611,
+                "owned": 9616,
                 "beaten": 3764,
                 "toplay": 317,
                 "dropped": 560,
@@ -6265,10 +6265,10 @@
             ],
             "ratings_count": 3253,
             "reviews_text_count": 25,
-            "added": 14085,
+            "added": 14087,
             "added_by_status": {
                 "yet": 632,
-                "owned": 9095,
+                "owned": 9097,
                 "beaten": 3185,
                 "toplay": 335,
                 "dropped": 726,
@@ -7294,10 +7294,10 @@
             ],
             "ratings_count": 4817,
             "reviews_text_count": 72,
-            "added": 13734,
+            "added": 13736,
             "added_by_status": {
                 "yet": 691,
-                "owned": 7027,
+                "owned": 7029,
                 "beaten": 4084,
                 "toplay": 1166,
                 "dropped": 353,
@@ -7709,14 +7709,14 @@
             ],
             "ratings_count": 3299,
             "reviews_text_count": 19,
-            "added": 13667,
+            "added": 13669,
             "added_by_status": {
-                "yet": 627,
-                "owned": 8679,
+                "yet": 626,
+                "owned": 8680,
                 "beaten": 2282,
-                "toplay": 429,
+                "toplay": 430,
                 "dropped": 1334,
-                "playing": 316
+                "playing": 317
             },
             "metacritic": 84,
             "playtime": 39,
@@ -8778,10 +8778,10 @@
             ],
             "ratings_count": 2171,
             "reviews_text_count": 14,
-            "added": 13604,
+            "added": 13607,
             "added_by_status": {
                 "yet": 499,
-                "owned": 10646,
+                "owned": 10649,
                 "beaten": 808,
                 "toplay": 106,
                 "dropped": 1423,
@@ -9177,10 +9177,10 @@
             ],
             "ratings_count": 2867,
             "reviews_text_count": 19,
-            "added": 13484,
+            "added": 13486,
             "added_by_status": {
                 "yet": 191,
-                "owned": 10467,
+                "owned": 10469,
                 "beaten": 800,
                 "toplay": 49,
                 "dropped": 1803,
@@ -10032,12 +10032,12 @@
             ],
             "ratings_count": 2709,
             "reviews_text_count": 61,
-            "added": 13029,
+            "added": 13030,
             "added_by_status": {
                 "yet": 840,
-                "owned": 6619,
-                "beaten": 2184,
-                "toplay": 2420,
+                "owned": 6620,
+                "beaten": 2185,
+                "toplay": 2419,
                 "dropped": 464,
                 "playing": 502
             },
@@ -10564,10 +10564,10 @@
             ],
             "ratings_count": 2372,
             "reviews_text_count": 16,
-            "added": 12908,
+            "added": 12911,
             "added_by_status": {
                 "yet": 392,
-                "owned": 9548,
+                "owned": 9551,
                 "beaten": 1225,
                 "toplay": 188,
                 "dropped": 1329,
@@ -11186,6 +11186,396 @@
             ]
         },
         {
+            "id": 4459,
+            "slug": "grand-theft-auto-iv",
+            "name": "Grand Theft Auto IV",
+            "released": "2008-04-29",
+            "tba": false,
+            "background_image": "https://media.rawg.io/media/games/4a0/4a0a1316102366260e6f38fd2a9cfdce.jpg",
+            "rating": 4.26,
+            "rating_top": 4,
+            "ratings": [
+                {
+                    "id": 4,
+                    "title": "recommended",
+                    "count": 1346,
+                    "percent": 44.79
+                },
+                {
+                    "id": 5,
+                    "title": "exceptional",
+                    "count": 1283,
+                    "percent": 42.7
+                },
+                {
+                    "id": 3,
+                    "title": "meh",
+                    "count": 311,
+                    "percent": 10.35
+                },
+                {
+                    "id": 1,
+                    "title": "skip",
+                    "count": 65,
+                    "percent": 2.16
+                }
+            ],
+            "ratings_count": 2974,
+            "reviews_text_count": 22,
+            "added": 12641,
+            "added_by_status": {
+                "yet": 359,
+                "owned": 8077,
+                "beaten": 2772,
+                "toplay": 238,
+                "dropped": 1081,
+                "playing": 114
+            },
+            "metacritic": 95,
+            "playtime": 10,
+            "suggestions_count": 505,
+            "updated": "2024-12-04T06:15:24",
+            "user_game": null,
+            "reviews_count": 3005,
+            "saturated_color": "0f0f0f",
+            "dominant_color": "0f0f0f",
+            "platforms": [
+                {
+                    "platform": {
+                        "id": 14,
+                        "name": "Xbox 360",
+                        "slug": "xbox360",
+                        "image": null,
+                        "year_end": null,
+                        "year_start": null,
+                        "games_count": 2806,
+                        "image_background": "https://media.rawg.io/media/games/6cd/6cd653e0aaef5ff8bbd295bf4bcb12eb.jpg"
+                    },
+                    "released_at": "2008-04-29",
+                    "requirements_en": null,
+                    "requirements_ru": null
+                },
+                {
+                    "platform": {
+                        "id": 4,
+                        "name": "PC",
+                        "slug": "pc",
+                        "image": null,
+                        "year_end": null,
+                        "year_start": null,
+                        "games_count": 540292,
+                        "image_background": "https://media.rawg.io/media/games/46d/46d98e6910fbc0706e2948a7cc9b10c5.jpg"
+                    },
+                    "released_at": "2008-04-29",
+                    "requirements_en": {
+                        "minimum": "<ul class=\"bb_ul\"><li><strong>OS:</strong> Windows Vista - Service Pack 1 / Windows XP - Service Pack 3                    <br>\t\t\t\t\t</li><li><strong>Processor:</strong> Intel Core 2 Duo 1.8GHz, AMD Athlon X2 64 2.4GHz                    <br>\t\t\t\t\t</li><li><strong>Memory:</strong> 1.5GB XP / 1.5GB Vista                    <br>\t\t\t\t\t</li><li><strong>Graphics:</strong> 256MB Nvidia 7900 / 256MB ATI X1900                    <br>\t\t\t\t\t</li><li><strong>DirectX Version:</strong> DirectX 9.0c Compliant Card                     <br>\t\t\t\t\t</li><li><strong>Hard Drive:</strong> 16GB of Hard Disc Space                     <br>\t\t\t\t\t</li><li><strong>Sound Card:</strong> 5.1 Channel Audio Card                     <br>\t\t\t\t\t</li><li><strong>Other Requirements:</strong> Initial activation requires internet connection; Online play requires log-in to Games For Windows - Live and Rockstar Games Social Club (13+ to register); software installations required including Adobe Flash, DirectX, Microsoft’s .NET Framework 3.0, Games For Windows - LIVE, and Internet Explorer.                    </li></ul>"
+                    },
+                    "requirements_ru": {
+                        "minimum": "Core 2 Duo/Athlon X2 64 2 ГГц, 1 Гб памяти, GeForce 7900/Radeon X1900,17 Гб на винчестере,XP SP3/Vista SP1,интернет-соединение",
+                        "recommended": "Core 2 Quad/Phenom X4 2.5 ГГц,2 Гб памяти, GeForce GTX 280/Radeon HD 4870,17 Гб на винчестере,XP SP3/Vista SP1,интернет-соединение"
+                    }
+                },
+                {
+                    "platform": {
+                        "id": 16,
+                        "name": "PlayStation 3",
+                        "slug": "playstation3",
+                        "image": null,
+                        "year_end": null,
+                        "year_start": null,
+                        "games_count": 3167,
+                        "image_background": "https://media.rawg.io/media/games/562/562553814dd54e001a541e4ee83a591c.jpg"
+                    },
+                    "released_at": "2008-04-29",
+                    "requirements_en": null,
+                    "requirements_ru": null
+                },
+                {
+                    "platform": {
+                        "id": 1,
+                        "name": "Xbox One",
+                        "slug": "xbox-one",
+                        "image": null,
+                        "year_end": null,
+                        "year_start": null,
+                        "games_count": 5665,
+                        "image_background": "https://media.rawg.io/media/games/73e/73eecb8909e0c39fb246f457b5d6cbbe.jpg"
+                    },
+                    "released_at": "2008-04-29",
+                    "requirements_en": null,
+                    "requirements_ru": null
+                }
+            ],
+            "parent_platforms": [
+                {
+                    "platform": {
+                        "id": 1,
+                        "name": "PC",
+                        "slug": "pc"
+                    }
+                },
+                {
+                    "platform": {
+                        "id": 2,
+                        "name": "PlayStation",
+                        "slug": "playstation"
+                    }
+                },
+                {
+                    "platform": {
+                        "id": 3,
+                        "name": "Xbox",
+                        "slug": "xbox"
+                    }
+                }
+            ],
+            "genres": [
+                {
+                    "id": 4,
+                    "name": "Action",
+                    "slug": "action",
+                    "games_count": 183915,
+                    "image_background": "https://media.rawg.io/media/games/26d/26d4437715bee60138dab4a7c8c59c92.jpg"
+                }
+            ],
+            "stores": [
+                {
+                    "id": 4787,
+                    "store": {
+                        "id": 3,
+                        "name": "PlayStation Store",
+                        "slug": "playstation-store",
+                        "domain": "store.playstation.com",
+                        "games_count": 7991,
+                        "image_background": "https://media.rawg.io/media/games/f87/f87457e8347484033cb34cde6101d08d.jpg"
+                    }
+                },
+                {
+                    "id": 465944,
+                    "store": {
+                        "id": 2,
+                        "name": "Xbox Store",
+                        "slug": "xbox-store",
+                        "domain": "microsoft.com",
+                        "games_count": 4890,
+                        "image_background": "https://media.rawg.io/media/games/f46/f466571d536f2e3ea9e815ad17177501.jpg"
+                    }
+                },
+                {
+                    "id": 17290,
+                    "store": {
+                        "id": 1,
+                        "name": "Steam",
+                        "slug": "steam",
+                        "domain": "store.steampowered.com",
+                        "games_count": 103327,
+                        "image_background": "https://media.rawg.io/media/games/20a/20aa03a10cda45239fe22d035c0ebe64.jpg"
+                    }
+                },
+                {
+                    "id": 42864,
+                    "store": {
+                        "id": 7,
+                        "name": "Xbox 360 Store",
+                        "slug": "xbox360",
+                        "domain": "marketplace.xbox.com",
+                        "games_count": 1915,
+                        "image_background": "https://media.rawg.io/media/games/942/9424d6bb763dc38d9378b488603c87fa.jpg"
+                    }
+                }
+            ],
+            "clip": null,
+            "tags": [
+                {
+                    "id": 31,
+                    "name": "Singleplayer",
+                    "slug": "singleplayer",
+                    "language": "eng",
+                    "games_count": 231859,
+                    "image_background": "https://media.rawg.io/media/games/b7d/b7d3f1715fa8381a4e780173a197a615.jpg"
+                },
+                {
+                    "id": 7,
+                    "name": "Multiplayer",
+                    "slug": "multiplayer",
+                    "language": "eng",
+                    "games_count": 39427,
+                    "image_background": "https://media.rawg.io/media/games/49c/49c3dfa4ce2f6f140cc4825868e858cb.jpg"
+                },
+                {
+                    "id": 13,
+                    "name": "Atmospheric",
+                    "slug": "atmospheric",
+                    "language": "eng",
+                    "games_count": 35217,
+                    "image_background": "https://media.rawg.io/media/games/26d/26d4437715bee60138dab4a7c8c59c92.jpg"
+                },
+                {
+                    "id": 18,
+                    "name": "Co-op",
+                    "slug": "co-op",
+                    "language": "eng",
+                    "games_count": 12479,
+                    "image_background": "https://media.rawg.io/media/games/713/713269608dc8f2f40f5a670a14b2de94.jpg"
+                },
+                {
+                    "id": 36,
+                    "name": "Open World",
+                    "slug": "open-world",
+                    "language": "eng",
+                    "games_count": 8060,
+                    "image_background": "https://media.rawg.io/media/games/da1/da1b267764d77221f07a4386b6548e5a.jpg"
+                },
+                {
+                    "id": 411,
+                    "name": "cooperative",
+                    "slug": "cooperative",
+                    "language": "eng",
+                    "games_count": 5496,
+                    "image_background": "https://media.rawg.io/media/games/0bd/0bd5646a3d8ee0ac3314bced91ea306d.jpg"
+                },
+                {
+                    "id": 149,
+                    "name": "Third Person",
+                    "slug": "third-person",
+                    "language": "eng",
+                    "games_count": 12481,
+                    "image_background": "https://media.rawg.io/media/games/310/3106b0e012271c5ffb16497b070be739.jpg"
+                },
+                {
+                    "id": 40845,
+                    "name": "Partial Controller Support",
+                    "slug": "partial-controller-support",
+                    "language": "eng",
+                    "games_count": 12447,
+                    "image_background": "https://media.rawg.io/media/games/2ad/2ad87a4a69b1104f02435c14c5196095.jpg"
+                },
+                {
+                    "id": 4,
+                    "name": "Funny",
+                    "slug": "funny",
+                    "language": "eng",
+                    "games_count": 26047,
+                    "image_background": "https://media.rawg.io/media/games/744/744adc36e6573dd67a0cb0e373738d19.jpg"
+                },
+                {
+                    "id": 26,
+                    "name": "Gore",
+                    "slug": "gore",
+                    "language": "eng",
+                    "games_count": 5989,
+                    "image_background": "https://media.rawg.io/media/games/cee/cee577e2097a59b77193fe2bce94667d.jpg"
+                },
+                {
+                    "id": 193,
+                    "name": "Classic",
+                    "slug": "classic",
+                    "language": "eng",
+                    "games_count": 1802,
+                    "image_background": "https://media.rawg.io/media/games/baf/baf9905270314e07e6850cffdb51df41.jpg"
+                },
+                {
+                    "id": 37,
+                    "name": "Sandbox",
+                    "slug": "sandbox",
+                    "language": "eng",
+                    "games_count": 7393,
+                    "image_background": "https://media.rawg.io/media/games/5bb/5bb55ccb8205aadbb6a144cf6d8963f1.jpg"
+                },
+                {
+                    "id": 150,
+                    "name": "Third-Person Shooter",
+                    "slug": "third-person-shooter",
+                    "language": "eng",
+                    "games_count": 3670,
+                    "image_background": "https://media.rawg.io/media/games/e3d/e3ddc524c6292a435d01d97cc5f42ea7.jpg"
+                },
+                {
+                    "id": 62,
+                    "name": "Moddable",
+                    "slug": "moddable",
+                    "language": "eng",
+                    "games_count": 988,
+                    "image_background": "https://media.rawg.io/media/games/46d/46d98e6910fbc0706e2948a7cc9b10c5.jpg"
+                },
+                {
+                    "id": 144,
+                    "name": "Crime",
+                    "slug": "crime",
+                    "language": "eng",
+                    "games_count": 2974,
+                    "image_background": "https://media.rawg.io/media/games/960/960b601d9541cec776c5fa42a00bf6c4.jpg"
+                },
+                {
+                    "id": 148,
+                    "name": "Dark Humor",
+                    "slug": "dark-humor",
+                    "language": "eng",
+                    "games_count": 3199,
+                    "image_background": "https://media.rawg.io/media/games/bfb/bfb2bf7a0413443b1fcf0be7c3244053.jpg"
+                },
+                {
+                    "id": 153,
+                    "name": "Satire",
+                    "slug": "satire",
+                    "language": "eng",
+                    "games_count": 1389,
+                    "image_background": "https://media.rawg.io/media/games/8cb/8cb8c54422636541fece8a479694f044.jpg"
+                },
+                {
+                    "id": 62348,
+                    "name": "first person mod",
+                    "slug": "first-person-mod",
+                    "language": "eng",
+                    "games_count": 14,
+                    "image_background": "https://media.rawg.io/media/games/6fd/6fd971ffa72faa1758960d25ef6196bc.jpg"
+                },
+                {
+                    "id": 321,
+                    "name": "Bowling",
+                    "slug": "bowling",
+                    "language": "eng",
+                    "games_count": 215,
+                    "image_background": "https://media.rawg.io/media/screenshots/36c/36c3bdcaedbfd27ba58a749fa3cdd432.jpg"
+                }
+            ],
+            "esrb_rating": {
+                "id": 4,
+                "name": "Mature",
+                "slug": "mature"
+            },
+            "short_screenshots": [
+                {
+                    "id": -1,
+                    "image": "https://media.rawg.io/media/games/4a0/4a0a1316102366260e6f38fd2a9cfdce.jpg"
+                },
+                {
+                    "id": 139042,
+                    "image": "https://media.rawg.io/media/screenshots/07f/07f7cf80741ff306e4eca982c3e64ac8.jpg"
+                },
+                {
+                    "id": 139043,
+                    "image": "https://media.rawg.io/media/screenshots/fef/fefd51ec13aa33acbd796ef79bcef7cb.jpg"
+                },
+                {
+                    "id": 139044,
+                    "image": "https://media.rawg.io/media/screenshots/b78/b78ffd258d5793be704c380e572748bc.jpg"
+                },
+                {
+                    "id": 139045,
+                    "image": "https://media.rawg.io/media/screenshots/17c/17c85ab9dfc4fda8e1e5ba72932ef2bf.jpg"
+                },
+                {
+                    "id": 139046,
+                    "image": "https://media.rawg.io/media/screenshots/a12/a12ca99cc74c1e7eba7100b0891dd1e0.jpg"
+                },
+                {
+                    "id": 139047,
+                    "image": "https://media.rawg.io/media/screenshots/b25/b254f9729ae3f36a9ccffccaa01d5cf6.jpg"
+                }
+            ]
+        },
+        {
             "id": 10213,
             "slug": "dota-2",
             "name": "Dota 2",
@@ -11603,8 +11993,8 @@
             "added": 12638,
             "added_by_status": {
                 "yet": 301,
-                "owned": 10148,
-                "beaten": 265,
+                "owned": 10147,
+                "beaten": 266,
                 "toplay": 74,
                 "dropped": 1584,
                 "playing": 266
@@ -12086,396 +12476,6 @@
             ]
         },
         {
-            "id": 4459,
-            "slug": "grand-theft-auto-iv",
-            "name": "Grand Theft Auto IV",
-            "released": "2008-04-29",
-            "tba": false,
-            "background_image": "https://media.rawg.io/media/games/4a0/4a0a1316102366260e6f38fd2a9cfdce.jpg",
-            "rating": 4.26,
-            "rating_top": 4,
-            "ratings": [
-                {
-                    "id": 4,
-                    "title": "recommended",
-                    "count": 1347,
-                    "percent": 44.83
-                },
-                {
-                    "id": 5,
-                    "title": "exceptional",
-                    "count": 1282,
-                    "percent": 42.66
-                },
-                {
-                    "id": 3,
-                    "title": "meh",
-                    "count": 311,
-                    "percent": 10.35
-                },
-                {
-                    "id": 1,
-                    "title": "skip",
-                    "count": 65,
-                    "percent": 2.16
-                }
-            ],
-            "ratings_count": 2974,
-            "reviews_text_count": 22,
-            "added": 12637,
-            "added_by_status": {
-                "yet": 359,
-                "owned": 8073,
-                "beaten": 2772,
-                "toplay": 238,
-                "dropped": 1081,
-                "playing": 114
-            },
-            "metacritic": 95,
-            "playtime": 10,
-            "suggestions_count": 505,
-            "updated": "2024-11-30T18:01:57",
-            "user_game": null,
-            "reviews_count": 3005,
-            "saturated_color": "0f0f0f",
-            "dominant_color": "0f0f0f",
-            "platforms": [
-                {
-                    "platform": {
-                        "id": 14,
-                        "name": "Xbox 360",
-                        "slug": "xbox360",
-                        "image": null,
-                        "year_end": null,
-                        "year_start": null,
-                        "games_count": 2806,
-                        "image_background": "https://media.rawg.io/media/games/6cd/6cd653e0aaef5ff8bbd295bf4bcb12eb.jpg"
-                    },
-                    "released_at": "2008-04-29",
-                    "requirements_en": null,
-                    "requirements_ru": null
-                },
-                {
-                    "platform": {
-                        "id": 4,
-                        "name": "PC",
-                        "slug": "pc",
-                        "image": null,
-                        "year_end": null,
-                        "year_start": null,
-                        "games_count": 540292,
-                        "image_background": "https://media.rawg.io/media/games/46d/46d98e6910fbc0706e2948a7cc9b10c5.jpg"
-                    },
-                    "released_at": "2008-04-29",
-                    "requirements_en": {
-                        "minimum": "<ul class=\"bb_ul\"><li><strong>OS:</strong> Windows Vista - Service Pack 1 / Windows XP - Service Pack 3                    <br>\t\t\t\t\t</li><li><strong>Processor:</strong> Intel Core 2 Duo 1.8GHz, AMD Athlon X2 64 2.4GHz                    <br>\t\t\t\t\t</li><li><strong>Memory:</strong> 1.5GB XP / 1.5GB Vista                    <br>\t\t\t\t\t</li><li><strong>Graphics:</strong> 256MB Nvidia 7900 / 256MB ATI X1900                    <br>\t\t\t\t\t</li><li><strong>DirectX Version:</strong> DirectX 9.0c Compliant Card                     <br>\t\t\t\t\t</li><li><strong>Hard Drive:</strong> 16GB of Hard Disc Space                     <br>\t\t\t\t\t</li><li><strong>Sound Card:</strong> 5.1 Channel Audio Card                     <br>\t\t\t\t\t</li><li><strong>Other Requirements:</strong> Initial activation requires internet connection; Online play requires log-in to Games For Windows - Live and Rockstar Games Social Club (13+ to register); software installations required including Adobe Flash, DirectX, Microsoft’s .NET Framework 3.0, Games For Windows - LIVE, and Internet Explorer.                    </li></ul>"
-                    },
-                    "requirements_ru": {
-                        "minimum": "Core 2 Duo/Athlon X2 64 2 ГГц, 1 Гб памяти, GeForce 7900/Radeon X1900,17 Гб на винчестере,XP SP3/Vista SP1,интернет-соединение",
-                        "recommended": "Core 2 Quad/Phenom X4 2.5 ГГц,2 Гб памяти, GeForce GTX 280/Radeon HD 4870,17 Гб на винчестере,XP SP3/Vista SP1,интернет-соединение"
-                    }
-                },
-                {
-                    "platform": {
-                        "id": 16,
-                        "name": "PlayStation 3",
-                        "slug": "playstation3",
-                        "image": null,
-                        "year_end": null,
-                        "year_start": null,
-                        "games_count": 3167,
-                        "image_background": "https://media.rawg.io/media/games/562/562553814dd54e001a541e4ee83a591c.jpg"
-                    },
-                    "released_at": "2008-04-29",
-                    "requirements_en": null,
-                    "requirements_ru": null
-                },
-                {
-                    "platform": {
-                        "id": 1,
-                        "name": "Xbox One",
-                        "slug": "xbox-one",
-                        "image": null,
-                        "year_end": null,
-                        "year_start": null,
-                        "games_count": 5665,
-                        "image_background": "https://media.rawg.io/media/games/73e/73eecb8909e0c39fb246f457b5d6cbbe.jpg"
-                    },
-                    "released_at": "2008-04-29",
-                    "requirements_en": null,
-                    "requirements_ru": null
-                }
-            ],
-            "parent_platforms": [
-                {
-                    "platform": {
-                        "id": 1,
-                        "name": "PC",
-                        "slug": "pc"
-                    }
-                },
-                {
-                    "platform": {
-                        "id": 2,
-                        "name": "PlayStation",
-                        "slug": "playstation"
-                    }
-                },
-                {
-                    "platform": {
-                        "id": 3,
-                        "name": "Xbox",
-                        "slug": "xbox"
-                    }
-                }
-            ],
-            "genres": [
-                {
-                    "id": 4,
-                    "name": "Action",
-                    "slug": "action",
-                    "games_count": 183915,
-                    "image_background": "https://media.rawg.io/media/games/26d/26d4437715bee60138dab4a7c8c59c92.jpg"
-                }
-            ],
-            "stores": [
-                {
-                    "id": 4787,
-                    "store": {
-                        "id": 3,
-                        "name": "PlayStation Store",
-                        "slug": "playstation-store",
-                        "domain": "store.playstation.com",
-                        "games_count": 7991,
-                        "image_background": "https://media.rawg.io/media/games/f87/f87457e8347484033cb34cde6101d08d.jpg"
-                    }
-                },
-                {
-                    "id": 465944,
-                    "store": {
-                        "id": 2,
-                        "name": "Xbox Store",
-                        "slug": "xbox-store",
-                        "domain": "microsoft.com",
-                        "games_count": 4890,
-                        "image_background": "https://media.rawg.io/media/games/f46/f466571d536f2e3ea9e815ad17177501.jpg"
-                    }
-                },
-                {
-                    "id": 17290,
-                    "store": {
-                        "id": 1,
-                        "name": "Steam",
-                        "slug": "steam",
-                        "domain": "store.steampowered.com",
-                        "games_count": 103327,
-                        "image_background": "https://media.rawg.io/media/games/20a/20aa03a10cda45239fe22d035c0ebe64.jpg"
-                    }
-                },
-                {
-                    "id": 42864,
-                    "store": {
-                        "id": 7,
-                        "name": "Xbox 360 Store",
-                        "slug": "xbox360",
-                        "domain": "marketplace.xbox.com",
-                        "games_count": 1915,
-                        "image_background": "https://media.rawg.io/media/games/942/9424d6bb763dc38d9378b488603c87fa.jpg"
-                    }
-                }
-            ],
-            "clip": null,
-            "tags": [
-                {
-                    "id": 31,
-                    "name": "Singleplayer",
-                    "slug": "singleplayer",
-                    "language": "eng",
-                    "games_count": 231859,
-                    "image_background": "https://media.rawg.io/media/games/b7d/b7d3f1715fa8381a4e780173a197a615.jpg"
-                },
-                {
-                    "id": 7,
-                    "name": "Multiplayer",
-                    "slug": "multiplayer",
-                    "language": "eng",
-                    "games_count": 39427,
-                    "image_background": "https://media.rawg.io/media/games/49c/49c3dfa4ce2f6f140cc4825868e858cb.jpg"
-                },
-                {
-                    "id": 13,
-                    "name": "Atmospheric",
-                    "slug": "atmospheric",
-                    "language": "eng",
-                    "games_count": 35217,
-                    "image_background": "https://media.rawg.io/media/games/26d/26d4437715bee60138dab4a7c8c59c92.jpg"
-                },
-                {
-                    "id": 18,
-                    "name": "Co-op",
-                    "slug": "co-op",
-                    "language": "eng",
-                    "games_count": 12479,
-                    "image_background": "https://media.rawg.io/media/games/713/713269608dc8f2f40f5a670a14b2de94.jpg"
-                },
-                {
-                    "id": 36,
-                    "name": "Open World",
-                    "slug": "open-world",
-                    "language": "eng",
-                    "games_count": 8060,
-                    "image_background": "https://media.rawg.io/media/games/da1/da1b267764d77221f07a4386b6548e5a.jpg"
-                },
-                {
-                    "id": 411,
-                    "name": "cooperative",
-                    "slug": "cooperative",
-                    "language": "eng",
-                    "games_count": 5496,
-                    "image_background": "https://media.rawg.io/media/games/0bd/0bd5646a3d8ee0ac3314bced91ea306d.jpg"
-                },
-                {
-                    "id": 149,
-                    "name": "Third Person",
-                    "slug": "third-person",
-                    "language": "eng",
-                    "games_count": 12481,
-                    "image_background": "https://media.rawg.io/media/games/310/3106b0e012271c5ffb16497b070be739.jpg"
-                },
-                {
-                    "id": 40845,
-                    "name": "Partial Controller Support",
-                    "slug": "partial-controller-support",
-                    "language": "eng",
-                    "games_count": 12447,
-                    "image_background": "https://media.rawg.io/media/games/2ad/2ad87a4a69b1104f02435c14c5196095.jpg"
-                },
-                {
-                    "id": 4,
-                    "name": "Funny",
-                    "slug": "funny",
-                    "language": "eng",
-                    "games_count": 26047,
-                    "image_background": "https://media.rawg.io/media/games/744/744adc36e6573dd67a0cb0e373738d19.jpg"
-                },
-                {
-                    "id": 26,
-                    "name": "Gore",
-                    "slug": "gore",
-                    "language": "eng",
-                    "games_count": 5989,
-                    "image_background": "https://media.rawg.io/media/games/cee/cee577e2097a59b77193fe2bce94667d.jpg"
-                },
-                {
-                    "id": 193,
-                    "name": "Classic",
-                    "slug": "classic",
-                    "language": "eng",
-                    "games_count": 1802,
-                    "image_background": "https://media.rawg.io/media/games/baf/baf9905270314e07e6850cffdb51df41.jpg"
-                },
-                {
-                    "id": 37,
-                    "name": "Sandbox",
-                    "slug": "sandbox",
-                    "language": "eng",
-                    "games_count": 7393,
-                    "image_background": "https://media.rawg.io/media/games/5bb/5bb55ccb8205aadbb6a144cf6d8963f1.jpg"
-                },
-                {
-                    "id": 150,
-                    "name": "Third-Person Shooter",
-                    "slug": "third-person-shooter",
-                    "language": "eng",
-                    "games_count": 3670,
-                    "image_background": "https://media.rawg.io/media/games/e3d/e3ddc524c6292a435d01d97cc5f42ea7.jpg"
-                },
-                {
-                    "id": 62,
-                    "name": "Moddable",
-                    "slug": "moddable",
-                    "language": "eng",
-                    "games_count": 988,
-                    "image_background": "https://media.rawg.io/media/games/46d/46d98e6910fbc0706e2948a7cc9b10c5.jpg"
-                },
-                {
-                    "id": 144,
-                    "name": "Crime",
-                    "slug": "crime",
-                    "language": "eng",
-                    "games_count": 2974,
-                    "image_background": "https://media.rawg.io/media/games/960/960b601d9541cec776c5fa42a00bf6c4.jpg"
-                },
-                {
-                    "id": 148,
-                    "name": "Dark Humor",
-                    "slug": "dark-humor",
-                    "language": "eng",
-                    "games_count": 3199,
-                    "image_background": "https://media.rawg.io/media/games/bfb/bfb2bf7a0413443b1fcf0be7c3244053.jpg"
-                },
-                {
-                    "id": 153,
-                    "name": "Satire",
-                    "slug": "satire",
-                    "language": "eng",
-                    "games_count": 1389,
-                    "image_background": "https://media.rawg.io/media/games/8cb/8cb8c54422636541fece8a479694f044.jpg"
-                },
-                {
-                    "id": 62348,
-                    "name": "first person mod",
-                    "slug": "first-person-mod",
-                    "language": "eng",
-                    "games_count": 14,
-                    "image_background": "https://media.rawg.io/media/games/6fd/6fd971ffa72faa1758960d25ef6196bc.jpg"
-                },
-                {
-                    "id": 321,
-                    "name": "Bowling",
-                    "slug": "bowling",
-                    "language": "eng",
-                    "games_count": 215,
-                    "image_background": "https://media.rawg.io/media/screenshots/36c/36c3bdcaedbfd27ba58a749fa3cdd432.jpg"
-                }
-            ],
-            "esrb_rating": {
-                "id": 4,
-                "name": "Mature",
-                "slug": "mature"
-            },
-            "short_screenshots": [
-                {
-                    "id": -1,
-                    "image": "https://media.rawg.io/media/games/4a0/4a0a1316102366260e6f38fd2a9cfdce.jpg"
-                },
-                {
-                    "id": 139042,
-                    "image": "https://media.rawg.io/media/screenshots/07f/07f7cf80741ff306e4eca982c3e64ac8.jpg"
-                },
-                {
-                    "id": 139043,
-                    "image": "https://media.rawg.io/media/screenshots/fef/fefd51ec13aa33acbd796ef79bcef7cb.jpg"
-                },
-                {
-                    "id": 139044,
-                    "image": "https://media.rawg.io/media/screenshots/b78/b78ffd258d5793be704c380e572748bc.jpg"
-                },
-                {
-                    "id": 139045,
-                    "image": "https://media.rawg.io/media/screenshots/17c/17c85ab9dfc4fda8e1e5ba72932ef2bf.jpg"
-                },
-                {
-                    "id": 139046,
-                    "image": "https://media.rawg.io/media/screenshots/a12/a12ca99cc74c1e7eba7100b0891dd1e0.jpg"
-                },
-                {
-                    "id": 139047,
-                    "image": "https://media.rawg.io/media/screenshots/b25/b254f9729ae3f36a9ccffccaa01d5cf6.jpg"
-                }
-            ]
-        },
-        {
             "id": 278,
             "slug": "horizon-zero-dawn",
             "name": "Horizon Zero Dawn",
@@ -12512,12 +12512,12 @@
             ],
             "ratings_count": 3665,
             "reviews_text_count": 37,
-            "added": 12544,
+            "added": 12545,
             "added_by_status": {
                 "yet": 666,
-                "owned": 6936,
-                "beaten": 2894,
-                "toplay": 817,
+                "owned": 6937,
+                "beaten": 2895,
+                "toplay": 816,
                 "dropped": 744,
                 "playing": 487
             },
@@ -13422,12 +13422,12 @@
             ],
             "ratings_count": 2198,
             "reviews_text_count": 3,
-            "added": 12275,
+            "added": 12276,
             "added_by_status": {
                 "yet": 621,
                 "owned": 9087,
                 "beaten": 1902,
-                "toplay": 172,
+                "toplay": 173,
                 "dropped": 454,
                 "playing": 39
             },
@@ -13769,10 +13769,10 @@
             ],
             "ratings_count": 2694,
             "reviews_text_count": 14,
-            "added": 11861,
+            "added": 11864,
             "added_by_status": {
                 "yet": 655,
-                "owned": 7562,
+                "owned": 7565,
                 "beaten": 2679,
                 "toplay": 387,
                 "dropped": 420,
@@ -14187,10 +14187,10 @@
             ],
             "ratings_count": 2473,
             "reviews_text_count": 16,
-            "added": 11805,
+            "added": 11808,
             "added_by_status": {
                 "yet": 783,
-                "owned": 7817,
+                "owned": 7820,
                 "beaten": 1583,
                 "toplay": 436,
                 "dropped": 939,
@@ -14629,12 +14629,12 @@
             ],
             "ratings_count": 2584,
             "reviews_text_count": 13,
-            "added": 11747,
+            "added": 11752,
             "added_by_status": {
                 "yet": 840,
-                "owned": 7615,
+                "owned": 7619,
                 "beaten": 2323,
-                "toplay": 369,
+                "toplay": 370,
                 "dropped": 439,
                 "playing": 161
             },
@@ -15350,44 +15350,44 @@
                     "id": 4,
                     "title": "recommended",
                     "count": 1068,
-                    "percent": 50.09
+                    "percent": 50.07
                 },
                 {
                     "id": 5,
                     "title": "exceptional",
                     "count": 795,
-                    "percent": 37.29
+                    "percent": 37.27
                 },
                 {
                     "id": 3,
                     "title": "meh",
                     "count": 176,
-                    "percent": 8.26
+                    "percent": 8.25
                 },
                 {
                     "id": 1,
                     "title": "skip",
-                    "count": 93,
-                    "percent": 4.36
+                    "count": 94,
+                    "percent": 4.41
                 }
             ],
-            "ratings_count": 2117,
+            "ratings_count": 2118,
             "reviews_text_count": 7,
-            "added": 11558,
+            "added": 11564,
             "added_by_status": {
                 "yet": 809,
-                "owned": 8133,
+                "owned": 8138,
                 "beaten": 1852,
                 "toplay": 192,
-                "dropped": 477,
+                "dropped": 478,
                 "playing": 95
             },
             "metacritic": 88,
             "playtime": 7,
             "suggestions_count": 698,
-            "updated": "2024-11-26T14:58:34",
+            "updated": "2024-12-03T23:28:43",
             "user_game": null,
-            "reviews_count": 2132,
+            "reviews_count": 2133,
             "saturated_color": "0f0f0f",
             "dominant_color": "0f0f0f",
             "platforms": [
@@ -15778,10 +15778,10 @@
             ],
             "ratings_count": 2349,
             "reviews_text_count": 21,
-            "added": 11471,
+            "added": 11472,
             "added_by_status": {
                 "yet": 176,
-                "owned": 8579,
+                "owned": 8580,
                 "beaten": 435,
                 "toplay": 84,
                 "dropped": 1676,
@@ -16234,10 +16234,10 @@
             ],
             "ratings_count": 3791,
             "reviews_text_count": 9,
-            "added": 11432,
+            "added": 11433,
             "added_by_status": {
                 "yet": 276,
-                "owned": 6159,
+                "owned": 6160,
                 "beaten": 3597,
                 "toplay": 200,
                 "dropped": 1081,
@@ -16791,10 +16791,10 @@
             ],
             "ratings_count": 1993,
             "reviews_text_count": 6,
-            "added": 11427,
+            "added": 11431,
             "added_by_status": {
                 "yet": 724,
-                "owned": 8326,
+                "owned": 8330,
                 "beaten": 1554,
                 "toplay": 130,
                 "dropped": 587,
@@ -17132,10 +17132,10 @@
             ],
             "ratings_count": 2402,
             "reviews_text_count": 15,
-            "added": 11322,
+            "added": 11324,
             "added_by_status": {
                 "yet": 346,
-                "owned": 7807,
+                "owned": 7809,
                 "beaten": 2644,
                 "toplay": 162,
                 "dropped": 319,
@@ -17707,10 +17707,10 @@
             ],
             "ratings_count": 2467,
             "reviews_text_count": 15,
-            "added": 11283,
+            "added": 11285,
             "added_by_status": {
                 "yet": 549,
-                "owned": 7467,
+                "owned": 7469,
                 "beaten": 2142,
                 "toplay": 334,
                 "dropped": 710,
@@ -18833,12 +18833,12 @@
                     },
                     {
                         "year": 1993,
-                        "count": 767,
+                        "count": 766,
                         "nofollow": true
                     },
                     {
                         "year": 1992,
-                        "count": 674,
+                        "count": 675,
                         "nofollow": true
                     },
                     {
